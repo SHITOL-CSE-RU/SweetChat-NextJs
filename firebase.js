@@ -3,12 +3,12 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAY1s4f2j46TQKYz2Uwj7nUySa5g_bvY1k",
-  authDomain: "sweetchatweb.firebaseapp.com",
-  projectId: "sweetchatweb",
-  storageBucket: "sweetchatweb.appspot.com",
-  messagingSenderId: "603753598245",
-  appId: "1:603753598245:web:f877c86be1e9a708441ecc"
+  apiKey: "AIzaSyC0t2sXatcVcCrbRFsd2kl0J_ku9dQux88",
+  authDomain: "sweetchat-9163f.firebaseapp.com",
+  projectId: "sweetchat-9163f",
+  storageBucket: "sweetchat-9163f.appspot.com",
+  messagingSenderId: "51360590488",
+  appId: "1:51360590488:web:b0ce6c6824496c82b3beed"
 };
 
   const app = !firebase.apps.length ? firebase.initializeApp(firebaseConfig) : firebase.app();
